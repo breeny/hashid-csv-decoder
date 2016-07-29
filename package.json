@@ -1,0 +1,19 @@
+{
+  "name": "hashid-csv-decoder",
+  "version": "1.0.0",
+  "description": "For a given CSV of hashids, decrypt them using the provided salt to an output CSV",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/breeny/hashid-csv-decoder.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/breeny/hashid-csv-decoder/issues"
+  },
+  "homepage": "https://github.com/breeny/hashid-csv-decoder#readme"
+}
